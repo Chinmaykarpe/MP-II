@@ -9,7 +9,7 @@ h1 {
 }
 
 .hero-background {
-    background-image: url('your-coffee-shop-banner.jpg');
+    /* background-image: url(''); */
     /* Placeholder image with text removed */
     background-size: cover;
     background-position: center;
