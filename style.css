@@ -148,3 +148,9 @@ input[type="radio"].form-radio:focus {
     box-shadow: 0 0 0 2px rgba(245, 158, 11, 0.5);
     /* Focus ring with amber-500 */
 }
+@media (max-width: 768px) {
+    /* Styles that apply only on screens up to 768px wide (e.g., for tablets and mobiles) */
+    .some-element {
+        flex-direction: column;
+    }
+}
